@@ -1,4 +1,4 @@
 deckard
 =======
 
-3D scores for ambient drone-scapes
+Minimal fondation for CoffeeCollider hacks. Extracted from http://mohayonao.github.io/CoffeeCollider/.
